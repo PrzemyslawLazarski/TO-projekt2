@@ -2,13 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ee0e6412-5246-4f14-8049-03032533e98e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/IPolar2D.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/IVector.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Polar2DAdapter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Vector2D.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Vector3DDecorator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Vector3DInheritance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_2DPolarInheritance.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
